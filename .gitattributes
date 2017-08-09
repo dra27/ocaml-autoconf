@@ -1,0 +1,5 @@
+# Default behaviour, for if core.autocrlf isn't set
+* text=auto
+
+*.m4 text eol=lf
+*.ac text eol=lf
